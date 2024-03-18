@@ -5,6 +5,8 @@ import org.assertj.core.api.Assertions;
 import org.junit.Before;
 import org.junit.Test;
 
+import com.example.listas.lista_estatica.ListaEstatica;
+
 public class ListaEstaticaTest {
 
     ListaEstatica listaEstatica;

@@ -1,8 +1,8 @@
-package com.example.listas;
+package com.example.listas.lista_estatica;
 
 public class ListaEstaticaGenerica<T> {
-    T[] info;
-    int tamanho;
+    public T[] info;
+    public int tamanho;
 
     public ListaEstaticaGenerica() {
         info = (T[]) new Object[10];

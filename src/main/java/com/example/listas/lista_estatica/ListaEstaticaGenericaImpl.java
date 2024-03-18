@@ -1,4 +1,4 @@
-package com.example.listas;
+package com.example.listas.lista_estatica;
 
 public class ListaEstaticaGenericaImpl  {
     
